@@ -4,7 +4,7 @@ from recruiterPermissions import recruiterPermissions
 # endpoint
 url = "https://apigw.prod.empregoligado.net/greg/graphql"
 
-token = "eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MzAyMDg3NDQsInJvbGVfdHlwZSI6IlNVUFBPUlQiLCJjb21wYW55X2lkIjoyMzQ3LCJpZCI6MTE0NCwicmFuayI6ImFkbWluIn0.VkAADklUfWl6ucXlAOOA7Vue2TWTCKbLKAfeoxW5ZtU"
+token = ""
 
 headers = {
     "Accept-Encoding": "gzip, deflate, br",
